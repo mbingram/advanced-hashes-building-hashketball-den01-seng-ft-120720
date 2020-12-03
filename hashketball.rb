@@ -90,7 +90,17 @@ def game_hash
       :blocks => 15 ,
       :slam_dunks => 10
       },
-      
+      {
+      :player_name => "" ,
+      :number =>  ,
+      :shoe =>  ,
+      :points =>  ,
+      :rebounds =>  ,
+      :assists =>  ,
+      :steals =>  ,
+      :blocks =>  ,
+      :slam_dunks => 
+      },
     ]
   }
   }
