@@ -1,4 +1,4 @@
-
+require 'pry'
 
 game_hash = {
   :home =>
@@ -16,6 +16,7 @@ game_hash = {
     {:slam_dunks => " "}
     ]
   } ,
+  binding.pry
   
   
   :away =>
