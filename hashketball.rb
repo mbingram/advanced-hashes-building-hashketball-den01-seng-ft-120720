@@ -1,9 +1,10 @@
-
+require 'pry'
 
 def game_hash  
   {
   :home =>
   {:team_name => "Brooklyn Nets"} ,
+  binding.pry
   {:colors => ["Black" , "White"]} ,
   {:players => [
     {:player_name => " "} ,
